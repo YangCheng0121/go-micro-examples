@@ -1,5 +1,8 @@
 # 微服务实战Go Micro v3
 
+## 源码地址
+* [爱租房微服务综合项目](https://github.com/CleverBamboo/renting)
+
 ## 系列文章
 * [微服务实战Go Micro v3 系列（一）- 基础篇](https://cleverbamboo.github.io/2021/04/27/GO/微服务实战Go-Micro-v3-系列（一）-基础篇/#more)
 * [微服务实战Go Micro v3 系列（二）- HelloWorld](https://cleverbamboo.github.io/2021/04/27/GO/微服务实战Go-Micro-v3-系列（二）-HelloWorld/#more)
